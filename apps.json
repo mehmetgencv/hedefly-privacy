@@ -3,7 +3,7 @@
   "store": {
     "name": "Hedefly",
     "developer": "Mehmet Genc",
-    "tagline": "YKS sınav takip ve çalışma planlama uygulaması",
+    "tagline": "Türkiye'nin sınav takip ve çalışma planlama uygulaması",
     "github": "https://github.com/mehmetgencv"
   },
   "categories": [
@@ -14,23 +14,25 @@
     {
       "id": "hedefly",
       "name": "Hedefly",
-      "subtitle": "YKS Sınav Takip & Çalışma Planlayıcı",
-      "description": "Türk üniversite sınavlarına (YKS) hazırlanan öğrenciler için çalışma takip ve planlama uygulaması.",
-      "longDescription": "Hedefly, YKS'ye hazırlanan öğrencilerin çalışmalarını takip etmelerine, hedef net sayılarını belirlemelerine ve ilerleme istatistiklerini görüntülemelerine olanak tanır. Veli takibi, kurum yönetimi, XP/seviye sistemi ve bildirimler gibi özellikler içerir.",
+      "subtitle": "Sınav Takip & Çalışma Planlayıcı",
+      "description": "YKS, LGS, KPSS, ALES, DGS ve AGS sınavlarına hazırlanan öğrenciler için çalışma takip ve planlama uygulaması.",
+      "longDescription": "Hedefly, Türkiye'deki tüm büyük sınavlara (YKS/TYT/AYT, LGS, KPSS, ALES, DGS, AGS) hazırlanan öğrencilerin çalışmalarını takip etmelerine, hedef net sayılarını belirlemelerine ve ilerleme istatistiklerini görüntülemelerine olanak tanır. Veli takibi, kurum yönetimi (dershane/okul), XP/seviye/rozet sistemi, streak takibi ve kişiselleştirilmiş bildirimler içerir.",
       "category": ["education", "productivity"],
       "platform": "iOS & Android",
       "price": "Free",
       "github": "https://github.com/mehmetgencv/hedefly-privacy",
-      "homepage": "https://mehmetgencv.github.io/hedefly-privacy",
+      "homepage": "https://apps.apple.com/tr/app/hedefly/id6759811566",
       "language": "JavaScript",
+      "downloadUrl": "https://apps.apple.com/tr/app/hedefly/id6759811566",
       "features": [
-        "Günlük çalışma kaydı ve takibi",
+        "YKS (TYT, AYT-Say, AYT-Söz, AYT-EA, AYT-Dil, YDT) desteği",
+        "LGS, KPSS, ALES, DGS ve AGS desteği",
+        "Günlük çalışma kaydı ve konu bazlı takip",
         "Net hedef belirleme ve ilerleme istatistikleri",
         "Veli takip paneli",
         "Kurum (dershane/okul) yönetimi",
         "XP, seviye ve rozet sistemi",
-        "Streak takibi ve bildirimler",
-        "YKS, LGS, KPSS, ALES desteği"
+        "Streak takibi ve bildirimler"
       ]
     }
   ]
